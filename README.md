@@ -1,2 +1,2 @@
 # GerenciadorDeCursos
-Projeto acadêmico utilizando conceitos sobre listas e coleções do curso da Alura.
+Projeto acadêmico que utiliza os conceitos do curso sobre collections e arrays em Java da **Alura**.
